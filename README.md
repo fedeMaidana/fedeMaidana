@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux%20-%23F9DC3E.svg?&style=for-the-badge&logo=redux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux%20-%23F9DC3E.svg?&style=for-the-badge&logo=redux&logoColor=white&color=purple" />
 </div>
 
 ##
@@ -72,9 +72,9 @@
 
 ### Workspace
 <div>
-  <img src="https://img.shields.io/badge/linux%20-%23000000.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/visual_studio_code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20-%23000000.svg?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 <br>
