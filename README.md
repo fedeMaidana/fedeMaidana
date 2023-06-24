@@ -9,20 +9,72 @@
 
 ##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+### Programming Languages
+<div>
+  <img src="https://img.shields.io/badge/C%20-%233776AB.svg?&style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP%20-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
 ##
 
+### Front-end 
+<div>
+  <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux%20-%23F9DC3E.svg?&style=for-the-badge&logo=redux&logoColor=black" />
+</div>
+
+##
+
+### Backend
+<div>
+  <img src="https://img.shields.io/badge/node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
+</div>
+
+##
+
+### Database
+<div>
+  <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+##
+
+### Testing
+<div>
+  <img src="https://img.shields.io/badge/jest%20-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
+</div>
+
+##
+
+### Version Control
+<div>
+  <img src="https://img.shields.io/badge/Git%20-%23C21325.svg?&style=for-the-badge&logo=git&logoColor=white&color=orange" />
+  <img src="https://img.shields.io/badge/GitHub%20-%23C21325.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
+</div>
+
+##
+
+### Design
+<div>
+  <img src="https://img.shields.io/badge/figma%20-%23a35cff.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+##
+
+### Workspace
+<div>
+  <img src="https://img.shields.io/badge/linux%20-%23000000.svg?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/visual_studio_code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+##
+
+### Contact
 <a href="https://www.linkedin.com/in/federico-e-maidana-m/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
