@@ -1,13 +1,18 @@
 ### Greetings, my esteemed ones. I'm Federico Maidana.
 
-##
+<br>
+<hr>
+
+
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fedeMaidana&show_icons=true&theme=tokyonight&bg_color=00000000" />
 
 ##
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedeMaidana&layout=compact&theme=tokyonight&bg_color=00000000&size_weight=0&count_weight=1" />
 
-##
+<br>
+<hr>
+
 
 ### Programming Languages
 <div>
@@ -72,7 +77,8 @@
   <img src="https://img.shields.io/badge/visual_studio_code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-##
+<br>
+<hr>
 
 ### Contact
 <a href="https://www.linkedin.com/in/federico-e-maidana-m/" target="_blank">
