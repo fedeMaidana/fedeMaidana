@@ -1,18 +1,15 @@
-### Greetings, my esteemed ones. I'm Federico Maidana.
+<h1 align="center">Greetings, my esteemed ones. I'm Federico Maidana.</h1>
 
 <br>
-<hr>
 
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fedeMaidana&show_icons=true&theme=tokyonight&bg_color=00000000" />
+<div align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=fedeMaidana&layout=compact&show_icons=true&theme=tokyonight&bg_color=00000000" />
+  
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedeMaidana&layout=compact&theme=tokyonight&bg_color=00000000&size_weight=0&count_weight=1" />
+</div>
 
 ##
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedeMaidana&layout=compact&theme=tokyonight&bg_color=00000000&size_weight=0&count_weight=1" />
-
 <br>
-<hr>
-
 
 ### Programming Languages
 <div>
