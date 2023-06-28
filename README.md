@@ -72,7 +72,7 @@
 <div>
   <img src="https://img.shields.io/badge/Linux%20-%23000000.svg?&style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 <br>
