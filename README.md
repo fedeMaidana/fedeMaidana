@@ -44,6 +44,7 @@
 ### Database
 <div>
   <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql%20-%234479A1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ##
