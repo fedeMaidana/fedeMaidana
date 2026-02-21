@@ -25,90 +25,18 @@
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,js,php,c" alt="Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Frontend (Markup & Style)</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend HTML CSS" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Frontend Framework</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" alt="Frontend Framework" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>State Management</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Backend Runtime</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Runtime" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Backend Framework</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,nestjs" alt="Backend Framework" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>ORM</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,sequelize,diesel" alt="ORM" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Databases</h3>
-  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma,sequelize" alt="ORM" />
     <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Testing</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Design</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Version Control</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Operating System</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating System" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Environment</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,windsurf" alt="Environment" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Environment" />
   </a>
 </div>
 
