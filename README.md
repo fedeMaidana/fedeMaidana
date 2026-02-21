@@ -25,18 +25,42 @@
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,js,php,c" alt="Languages" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend HTML CSS" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" alt="Frontend Framework" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Runtime" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,nestjs" alt="Backend Framework" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=prisma,sequelize" alt="ORM" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
-    <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating System" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Environment" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating System" />
   </a>
 </div>
 
