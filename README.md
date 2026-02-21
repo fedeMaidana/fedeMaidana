@@ -59,7 +59,14 @@
 <div align="center">
   <h3>Backend Framework</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express" alt="Backend Framework" />
+    <img src="https://skillicons.dev/icons?i=express,nestjs" alt="Backend Framework" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>ORM</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma,sequelize,diesel" alt="ORM" />
   </a>
 </div>
 
@@ -94,14 +101,14 @@
 <div align="center">
   <h3>Operating System</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Operating System" />
+    <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating System" />
   </a>
 </div>
 
 <div align="center">
   <h3>Environment</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Environment" />
+    <img src="https://skillicons.dev/icons?i=vscode,windsurf" alt="Environment" />
   </a>
 </div>
 
