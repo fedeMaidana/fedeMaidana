@@ -21,58 +21,88 @@
 
 ### 🛠️ Tech Stack
 
-
-<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+  <h3>Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,js,php,c" alt="Languages" />
+  </a>
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>Languages</b><br>
-        <img src="https://skillicons.dev/icons?i=c,js,php,rust" alt="Languages" />
-      </td>
-      <td align="center">
-        <b>Frontend</b><br>
-        <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>State Management</b><br>
-        <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
-      </td>
-      <td align="center">
-        <b>Backend</b><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>Databases</b><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
-      </td>
-      <td align="center">
-        <b>Testing</b><br>
-        <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>Version Control</b><br>
-        <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
-      </td>
-      <td align="center">
-        <b>Design</b><br>
-        <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <b>OS & Environment</b><br>
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode" alt="OS and Environment" />
-      </td>
-    </tr>
-  </table>
+  <h3>Frontend (Markup & Style)</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend HTML CSS" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Frontend Framework</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" alt="Frontend Framework" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>State Management</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Backend Runtime</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Runtime" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Backend Framework</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express" alt="Backend Framework" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Testing</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Design</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Version Control</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Operating System</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Operating System" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Environment</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Environment" />
+  </a>
 </div>
 
 ---
