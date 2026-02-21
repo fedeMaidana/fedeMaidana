@@ -23,9 +23,9 @@
 
 
 <div align="center">
-  <p>Languages</p>
+  <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,js,php,c," alt="Federico Languages" />
+    <img src="https://skillicons.dev/icons?i=rust,js,php,c" alt="Federico Languages" />
   </a>
 </div>
 
