@@ -22,18 +22,58 @@
 ### 🛠️ Tech Stack
 
 
+<h3 align="center">🛠️ Tech Stack</h3>
+
 <div align="center">
-  <h3>Languages</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,js,php,c" alt="Federico Languages" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <b>Languages</b><br>
+        <img src="https://skillicons.dev/icons?i=c,js,php,rust" alt="Languages" />
+      </td>
+      <td align="center">
+        <b>Frontend</b><br>
+        <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>State Management</b><br>
+        <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
+      </td>
+      <td align="center">
+        <b>Backend</b><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Databases</b><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
+      </td>
+      <td align="center">
+        <b>Testing</b><br>
+        <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Version Control</b><br>
+        <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
+      </td>
+      <td align="center">
+        <b>Design</b><br>
+        <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <b>OS & Environment</b><br>
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode" alt="OS and Environment" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-**Frontend & Design:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-F9DC3E?style=flat-square&logo=redux&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-A35CFF?style=flat-square&logo=figma&logoColor=white)
-
-**Backend & DB:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Environment:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
 
