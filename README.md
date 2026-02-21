@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,js,ts,php,c,html,css,tailwind,threejs,vite,react,redux,nodejs,express,nestjs,prisma,sequelize,postgres,mysql,jest,git,github,postman,figma,vscode,linux,windows" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=rust,js,ts,php,c,html,css,tailwind,threejs,vite,react,redux,nodejs,express,nestjs,prisma,sequelize,postgres,mysql,jest,git,github,postman,figma,blender,vscode,linux,windows" alt="Languages" />
   </a>
 
 ---
