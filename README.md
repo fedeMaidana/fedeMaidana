@@ -23,69 +23,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,js,php,c" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=rust,js,php,c,html,css,react,redux,nodejs,express,nestjs,prisma,sequelize,postgres,mysql,jest,figma,git,github,vscode,linux,windows" alt="Languages" />
   </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend HTML CSS" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" alt="Frontend Framework" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Runtime" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nestjs" alt="Backend Framework" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,sequelize" alt="ORM" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Environment" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating System" />
-  </a>
-</div>
 
 ---
 
