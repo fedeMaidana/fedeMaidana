@@ -4,12 +4,6 @@
 
 <img height=200 src="https://www.codewars.com/users/fedeMaidana/badges/large" />
 
-<div align="start">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=fedeMaidana&layout=compact&show_icons=true&theme=tokyonight&bg_color=00000000" />
-  
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedeMaidana&layout=compact&theme=tokyonight&bg_color=00000000&size_weight=0&count_weight=1" />
-</div>
-
 ##
 <br>
 
