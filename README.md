@@ -13,10 +13,9 @@
 ---
 
 ### 👨‍💻 Sobre mí
-- 🌱 Desarrollador enfocado en el ecosistema web, actualmente profundizando mis conocimientos en **Rust**.
-- 🧠 Entrenando lógica algorítmica y resolución de problemas en plataformas como **Codewars**.
-- ✍️ Me gusta analizar y compartir particularidades de los lenguajes de programación (como el comportamiento de *keywords* específicas).
-- 💻 Cómodo trabajando en entornos **Linux** y aprendiendo continuamente sobre nuevas herramientas.
+- 🌱 **Software Engineer** enfocado en el ecosistema web, actualmente profundizando en **Rust**.
+- 🧠 Entrenando lógica algorítmica y enfocado en la resolución eficiente de problemas.
+- 💻 Con experiencia sólida operando en entornos **Linux** y sumando continuamente nuevas herramientas a mi *workflow*.
 
 ---
 
