@@ -1,84 +1,60 @@
-<h1 align="center">Greetings, my esteemed ones. I'm Federico Maidana.</h1>
+<h1 align="center">Hi 👋, I'm Federico Maidana</h1>
+<h3 align="center">Software Developer | Competitive Programming Enthusiast</h3>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/federico-e-maidana-m/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fede_maidana4@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<img height=200 src="https://www.codewars.com/users/fedeMaidana/badges/large" />
+---
 
-##
-<br>
+### 👨‍💻 Sobre mí
+- 💡 Me enfoco en construir arquitecturas eficientes y escalables.
+- 🚀 Actualmente profundizando en **Rust** y enfocado en resolución algorítmica (**Codeforces**, Codewars).
+- 🛠️ Experiencia sólida trabajando en entornos **Linux** y estructurando bases de datos relacionales.
 
-### Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/C%20-%233776AB.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP%20-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />
-</div>
+---
 
-##
+### 🛠️ Tech Stack
 
-### Front-end 
-<div>
-  <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux%20-%23F9DC3E.svg?&style=for-the-badge&logo=redux&logoColor=white&color=purple" />
-</div>
+**Languages:** ![C](https://img.shields.io/badge/C-3776AB?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-3776AB?style=flat-square&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-##
+**Frontend & Design:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-F9DC3E?style=flat-square&logo=redux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A35CFF?style=flat-square&logo=figma&logoColor=white)
 
-### Backend
-<div>
-  <img src="https://img.shields.io/badge/node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
-</div>
+**Backend & DB:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-##
+**Tools & Environment:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-### Database
-<div>
-  <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql%20-%234479A1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+---
 
-##
+### 📊 Stats & Algoritmia
 
-### Testing
-<div>
-  <img src="https://img.shields.io/badge/jest%20-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
-</div>
-
-##
-
-### Version Control
-<div>
-  <img src="https://img.shields.io/badge/Git%20-%23C21325.svg?&style=for-the-badge&logo=git&logoColor=white&color=orange" />
-  <img src="https://img.shields.io/badge/GitHub%20-%23C21325.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
-</div>
-
-##
-
-### Design
-<div>
-  <img src="https://img.shields.io/badge/figma%20-%23a35cff.svg?&style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-##
-
-### Workspace
-<div>
-  <img src="https://img.shields.io/badge/Linux%20-%23000000.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fedeMaidana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedeMaidana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
 </div>
 
 <br>
-<hr>
 
-### Contact
-<a href="https://www.linkedin.com/in/federico-e-maidana-m/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href = "mailto:fede_maidana4@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-</a>
-
+<div align="center">
+  <a href="https://www.codewars.com/users/fedeMaidana" target="_blank">
+    <img src="https://www.codewars.com/users/fedeMaidana/badges/large" alt="Codewars Badge" />
+  </a>
+</div>
